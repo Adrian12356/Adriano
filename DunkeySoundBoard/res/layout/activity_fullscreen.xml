@@ -47,9 +47,28 @@
 
         <Button
             android:id="@+id/button2"
-            android:layout_width="wrap_content"
+            android:layout_width="103dp"
             android:layout_height="wrap_content"
-            android:text="@string/dummy_button" />
+            android:layout_gravity="right"
+            android:background="@android:color/darker_gray"
+            android:text="@string/Button1"
+            android:textAppearance="?android:attr/textAppearanceMediumInverse"
+            android:textColorHint="@android:color/background_dark" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="99dp"
+            android:layout_height="wrap_content"
+            android:background="@android:color/black"
+            android:text="@string/Button1" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="95dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@android:drawable/dark_header"
+            android:text="@string/Button1" />
 
     </FrameLayout>
 
