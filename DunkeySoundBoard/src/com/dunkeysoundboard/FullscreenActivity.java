@@ -20,6 +20,7 @@ public class FullscreenActivity extends Activity {
 	/**
 	 * Whether or not the system UI should be auto-hidden after
 	 * {@link #AUTO_HIDE_DELAY_MILLIS} milliseconds.
+	 * lalala penis penis dick dick cum shot
 	 */
 	private static final boolean AUTO_HIDE = false;
 
