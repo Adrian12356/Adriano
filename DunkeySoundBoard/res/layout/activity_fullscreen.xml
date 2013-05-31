@@ -70,6 +70,13 @@
             android:background="@android:drawable/dark_header"
             android:text="@string/Button1" />
 
+        <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="185dp"
+            android:layout_height="185dp"
+            android:layout_gravity="center" />
+
     </FrameLayout>
 
 </FrameLayout>
