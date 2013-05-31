@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="right1">112dip</dimen>
+    <dimen name="right02">218dip</dimen>
+    <dimen name="down">75dip</dimen>
+    <dimen name="down2">150dip</dimen>
+    <dimen name="down3">225dip</dimen>
+    <dimen name="down4">300dip</dimen>
+</resources>

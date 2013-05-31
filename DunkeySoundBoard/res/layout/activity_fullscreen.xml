@@ -43,17 +43,8 @@
             android:background="@color/black_overlay"
             android:orientation="horizontal"
             tools:ignore="UselessParent" >
-        </LinearLayout>
 
-        <Button
-            android:id="@+id/button2"
-            android:layout_width="103dp"
-            android:layout_height="wrap_content"
-            android:layout_gravity="right"
-            android:background="@android:color/darker_gray"
-            android:text="@string/Button1"
-            android:textAppearance="?android:attr/textAppearanceMediumInverse"
-            android:textColorHint="@android:color/background_dark" />
+        </LinearLayout>
 
         <Button
             android:id="@+id/button3"
@@ -69,6 +60,128 @@
             android:layout_gravity="center_horizontal"
             android:background="@android:drawable/dark_header"
             android:text="@string/Button1" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="103dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:background="@android:color/darker_gray"
+            android:text="@string/Button1"
+            android:textAppearance="?android:attr/textAppearanceMediumInverse"
+            android:textColorHint="@android:color/background_dark" />
+
+        <Button
+            android:id="@+id/Button01"
+            android:layout_width="99dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/down"
+            android:background="@android:color/black"
+            android:text="@string/Button1" />
+
+        <Button
+            android:id="@+id/Button02"
+            android:layout_width="95dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/right1"
+            android:layout_marginTop="@dimen/down4"
+            android:background="@android:drawable/dark_header"
+            android:text="@string/Button1" />
+
+        <Button
+            android:id="@+id/Button03"
+            android:layout_width="103dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/right02"
+            android:layout_marginTop="@dimen/down4"
+            android:background="@android:color/darker_gray"
+            android:text="@string/Button1"
+            android:textAppearance="?android:attr/textAppearanceMediumInverse"
+            android:textColorHint="@android:color/background_dark" />
+
+        <Button
+            android:id="@+id/Button04"
+            android:layout_width="99dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/down4"
+            android:background="@android:color/black"
+            android:text="@string/Button1" />
+
+        <Button
+            android:id="@+id/Button05"
+            android:layout_width="95dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/right1"
+            android:layout_marginTop="@dimen/down"
+            android:background="@android:drawable/dark_header"
+            android:text="@string/Button1" />
+
+        <Button
+            android:id="@+id/Button06"
+            android:layout_width="103dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/right02"
+            android:layout_marginTop="@dimen/down"
+            android:background="@android:color/darker_gray"
+            android:text="@string/Button1"
+            android:textAppearance="?android:attr/textAppearanceMediumInverse"
+            android:textColorHint="@android:color/background_dark" />
+
+        <Button
+            android:id="@+id/Button07"
+            android:layout_width="99dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/down2"
+            android:background="@android:color/black"
+            android:text="@string/Button1" />
+
+        <Button
+            android:id="@+id/Button08"
+            android:layout_width="95dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/right1"
+            android:layout_marginTop="@dimen/down2"
+            android:background="@android:drawable/dark_header"
+            android:text="@string/Button1" />
+
+        <Button
+            android:id="@+id/Button09"
+            android:layout_width="103dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/right02"
+            android:layout_marginTop="@dimen/down2"
+            android:background="@android:color/darker_gray"
+            android:text="@string/Button1"
+            android:textAppearance="?android:attr/textAppearanceMediumInverse"
+            android:textColorHint="@android:color/background_dark" />
+
+        <Button
+            android:id="@+id/Button10"
+            android:layout_width="99dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/down3"
+            android:background="@android:color/black"
+            android:text="@string/Button1" />
+
+        <Button
+            android:id="@+id/Button11"
+            android:layout_width="95dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/right1"
+            android:layout_marginTop="@dimen/down3"
+            android:background="@android:drawable/dark_header"
+            android:text="@string/Button1" />
+
+        <Button
+            android:id="@+id/Button12"
+            android:layout_width="103dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/right02"
+            android:layout_marginTop="@dimen/down3"
+            android:background="@android:color/darker_gray"
+            android:text="@string/Button1"
+            android:textAppearance="?android:attr/textAppearanceMediumInverse"
+            android:textColorHint="@android:color/background_dark" />
 
     </FrameLayout>
 
